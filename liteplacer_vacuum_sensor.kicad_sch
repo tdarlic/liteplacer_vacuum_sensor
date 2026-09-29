@@ -4364,7 +4364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_5.3mm_M5"
 			(at 81.28 99.06 0)
 			(hide yes)
 			(show_name no)
